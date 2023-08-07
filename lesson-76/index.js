@@ -1,6 +1,6 @@
 const firstName = 'Martin'
-const lastName = 'Shitc'
+let lastName = 'Shitc'
 let age = 24
-const City = 'Moscow'
-const Trained = 'AROKEN'
+let City = 'Moscow'
+let Trained = 'AROKEN'
 console.log('Student ', firstName, lastName, 'y.o ', age, 'Resedent ', City, 'Baing-trained ', Trained)
