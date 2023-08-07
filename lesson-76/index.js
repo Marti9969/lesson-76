@@ -1,5 +1,5 @@
 const firstName = 'Martin'
-let lastName = 'Shitc'
+const lastName = 'Shitc'
 let age = 24
 let City = 'Moscow'
 let Trained = 'AROKEN'
